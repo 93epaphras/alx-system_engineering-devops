@@ -1,0 +1,5 @@
+#!/bin/bash
+cp -rua *.html ../
+task 15.
+#!/bin/bash
+mv [[:upper:]]* /tmp/u
